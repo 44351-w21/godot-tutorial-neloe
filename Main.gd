@@ -13,7 +13,7 @@ func _ready():
 	# temporary so we can deploy and have fun
 	#$Player.start(Vector2())
 	randomize()
-	new_game()
+	#new_game()
 
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
